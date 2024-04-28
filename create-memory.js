@@ -4,4 +4,4 @@ const createMemory = (sizeInBytes) => {
     return dataView;
 } 
 
-module.export = createMemory;
+module.exports = createMemory;
